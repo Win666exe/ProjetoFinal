@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './Jogo.css';
-import '../navbar.css';
+import '../../navbar.css';
 import { Helmet } from 'react-helmet';
 
 const Jogo = () => {

@@ -1,7 +1,7 @@
 // components/Cart.tsx
 
 import React from 'react';
-import { BookData } from './types';
+import { BookData } from '../types';
 import './Cart.css';
 
 interface CartProps {
