@@ -1,0 +1,111 @@
+.cart-item {
+  width: 750px;
+  background-color: #202020;
+  color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  margin-bottom: 20px; 
+  margin-top: 20px;/* Espaçamento inferior entre os itens do carrinho */
+}
+body{
+  width: 100%;
+}
+
+.cart-item-details {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.cart-item-image {
+  width: 200px; /* Ajuste o tamanho da imagem do carrinho conforme necessário */
+  height: 200px;
+  object-fit: cover;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+
+.cart-item-info {
+  flex: 1;
+}
+
+.cart-item-title {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.cart-item-author {
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #b3b3b3;
+}
+
+.cart-item-description {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.cart-item-price {
+  font-weight: bold;
+}
+
+.cart-item-remove {
+  background-color: #555555;
+  color: #ffffff;
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.cart-item-remove:hover {
+  background-color: #333333;
+}
+
+.cart-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.cart-page h1 {
+  padding: 20px;
+}
+
+.cart-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.cart-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  width: 50%; /* Define a largura da caixa como metade da página */
+}
+
+.cart-item {
+  background-color: #202020;
+  color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+  flex: 1; /* Permite que a caixa do carrinho ocupe todo o espaço disponível na linha */
+  text-align: left; /* Alinha o conteúdo dentro da caixa à esquerda */
+}
