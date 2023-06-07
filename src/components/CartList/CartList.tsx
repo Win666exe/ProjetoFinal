@@ -1,8 +1,8 @@
 // components/CartList.tsx
 
 import React from 'react';
-import { BookData } from './types';
-import CartItem from './CartItem';
+import { BookData } from '../types';
+import CartItem from '../CartItem/CartItem';
 import './CartList.css';
 
 interface CartListProps {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookData } from './types';
+import { BookData } from '../types';
 import './Book.css';
 
 interface BookProps extends BookData {
@@ -7,7 +7,7 @@ interface BookProps extends BookData {
 }
 
 const Book: React.FC<BookProps> = ({ onAddToCart, ...book }) => {
-  const imagePath = require(`../components/ima/${book.imageUrl}`).default;
+  const imagePath = book.imageUrl;
 
 
   return (

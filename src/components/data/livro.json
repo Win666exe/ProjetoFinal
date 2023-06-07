@@ -1,0 +1,42 @@
+[
+  {
+  "id": 1,
+  "title": "O Demonologista",
+  "author": "Andrew Pyper",
+  "description": "David Ullman é um renomado professor da Universidade de Columbia, especializado em mitologia e literatura religiosa. Mas a sua paixão é o Gólgota, um volume lendário que carrega a história do Inferno em suas páginas. David é convidado para testemunhar um fenômeno peculiar: um estranho assume a forma de professor da universidade e comete um crime brutal diante dos olhos de todos. Mas esse não é o fim, é apenas o começo.",
+  "imageUrl": "https://www.jujubooks.com.br/wp-content/uploads/2021/02/113-1.jpg",
+  "price": 39.90
+  },
+  {
+  "id": 2,
+  "title": "Edgar Allan Poe: Medo Clássico",
+  "author": "Edgar Allan Poe",
+  "description": "Esta antologia apresenta os contos que se tornaram clássicos da literatura de horror e suspense. Com histórias como 'O Gato Preto', 'A Queda da Casa de Usher' e 'O Coração Denunciador', o mestre do terror Edgar Allan Poe mergulha o leitor em um mundo sombrio e perturbador, repleto de mistério, medo e angústia.",
+  "imageUrl": "https://i0.wp.com/umtoquedeframboesa.com/wp-content/uploads/2018/11/livro-da-vez-edgar-allan-poe-darkside.jpg?w=840",
+  "price": 49.90
+  },
+  {
+  "id": 3,
+  "title": "A Menina Submersa: Memórias",
+  "author": "Caitlín R. Kiernan",
+  "description": "India Morgan Phelps, ou Imp, é uma personagem complexa e perturbadora, que narra sua história por meio de fragmentos de memória, devaneios, mistério e horror. Kiernan cria uma atmosfera única e envolvente neste romance dark que explora os limites da sanidade e da realidade.",
+  "imageUrl": "https://www.leonardodavinci.com.br/capas/536/9788566636536.jpg",
+  "price": 54.90
+  },
+  {
+  "id": 4,
+  "title": "O Circo Mecânico Tresaulti",
+  "author": "Genevieve Valentine",
+  "description": "Em um mundo pós-apocalíptico, o Circo Mecânico Tresaulti viaja pelas cidades levando um espetáculo de acrobacias e maravilhas mecânicas. Valentine tece uma trama mágica e sombria, explorando temas como a imortalidade, a natureza da humanidade e os limites do corpo e da alma.",
+  "imageUrl": "https://www.estantediagonal.com.br/wp-content/uploads/2016/04/IMG_3090-1024x768.jpg",
+  "price": 42.90
+  },
+  {
+  "id": 5,
+  "title": "Frankenstein: A Obra-Prima de Mary Shelley",
+  "author": "Mary Shelley",
+  "description": "Publicado originalmente em 1818, Frankenstein é um clássico da literatura gótica e um dos maiores ícones da ficção científica. A obra aborda questões como a ética na ciência, a criação e a responsabilidade humana, envolvendo o leitor em uma trama repleta de suspense e horror.",
+  "imageUrl": "https://m.media-amazon.com/images/I/6148mBTRM8L._AC_UF1000,1000_QL80_.jpg",
+  "price": 37.90
+  }
+]

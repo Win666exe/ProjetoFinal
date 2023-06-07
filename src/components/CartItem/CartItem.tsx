@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookData } from './types';
+import { BookData } from '../types';
 import './CartItem.css'; // Importe o arquivo CSS do componente CartItem
 
 interface CartItemProps {
