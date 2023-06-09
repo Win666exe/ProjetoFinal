@@ -4,7 +4,7 @@
   "title": "O Demonologista",
   "author": "Andrew Pyper",
   "description": "David Ullman é um renomado professor da Universidade de Columbia, especializado em mitologia e literatura religiosa. Mas a sua paixão é o Gólgota, um volume lendário que carrega a história do Inferno em suas páginas. David é convidado para testemunhar um fenômeno peculiar: um estranho assume a forma de professor da universidade e comete um crime brutal diante dos olhos de todos. Mas esse não é o fim, é apenas o começo.",
-  "imageUrl": "https://www.jujubooks.com.br/wp-content/uploads/2021/02/113-1.jpg",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLk7w-HdjRPQNY6jelv2ja5-qASECug501Co7o66tQUYmhh6wM7rDnkEg22IEGEbCtxiI&usqp=CAU",
   "price": 39.90
   },
   {
@@ -20,7 +20,7 @@
   "title": "A Menina Submersa: Memórias",
   "author": "Caitlín R. Kiernan",
   "description": "India Morgan Phelps, ou Imp, é uma personagem complexa e perturbadora, que narra sua história por meio de fragmentos de memória, devaneios, mistério e horror. Kiernan cria uma atmosfera única e envolvente neste romance dark que explora os limites da sanidade e da realidade.",
-  "imageUrl": "https://www.leonardodavinci.com.br/capas/536/9788566636536.jpg",
+  "imageUrl": "https://pbs.twimg.com/media/CQ0BK6cWoAAbW29.png",
   "price": 54.90
   },
   {
@@ -33,10 +33,210 @@
   },
   {
   "id": 5,
-  "title": "Frankenstein: A Obra-Prima de Mary Shelley",
+  "title": "Frankenstein",
   "author": "Mary Shelley",
-  "description": "Publicado originalmente em 1818, Frankenstein é um clássico da literatura gótica e um dos maiores ícones da ficção científica. A obra aborda questões como a ética na ciência, a criação e a responsabilidade humana, envolvendo o leitor em uma trama repleta de suspense e horror.",
-  "imageUrl": "https://m.media-amazon.com/images/I/6148mBTRM8L._AC_UF1000,1000_QL80_.jpg",
-  "price": 37.90
-  }
+  "description": "Publicado originalmente em 1818, 'Frankenstein' é um clássico da literatura gótica e um dos maiores ícones da ficção científica. A história acompanha o jovem cientista Victor Frankenstein, que, em sua busca pelo segredo da vida, cria uma criatura monstruosa. O livro aborda questões profundas sobre a natureza humana, a responsabilidade moral e as consequências de brincar com os limites da ciência. Esta edição de luxo em capa dura apresenta o texto completo do romance, juntamente com ilustrações e uma encadernação elegante.",
+  "imageUrl": "https://cdn.dooca.store/81243/products/88fpdc9ckv2wxr09ovc5kuyylbjfre760hsp_640x640+fill_ffffff.jpg?v=1671214368&webp=0",
+  "price": 79.90
+  },
+  {
+    "id": 6,
+    "title": "O Bebê de Rosemary",
+    "author": "Ira Levin",
+    "description": "Em Nova York, um casal se muda para um novo apartamento e faz amizade com seus excêntricos vizinhos. Quando a esposa engravida, estranhas ocorrências começam a assombrar sua vida, levando-a a desconfiar das intenções sombrias por trás da gravidez.",
+    "imageUrl": "https://darkside.blog.br/wp-content/uploads/2022/03/BEBE-1-1024x1024.jpg",
+    "price": 29.90
+    },
+    {
+    "id": 7,
+    "title": "O Iluminado",
+    "author": "Stephen King",
+    "description": "Jack Torrance consegue um emprego como zelador em um hotel isolado nas montanhas. Com sua esposa e filho, ele se muda para o local durante o inverno. No entanto, a solidão e o passado sombrio do hotel começam a afetar a sanidade de Jack, desencadeando uma série de eventos assustadores.",
+    "imageUrl": "https://1.bp.blogspot.com/--3BAPvkJYCs/X5HrPLuINjI/AAAAAAAAUIY/IVC0hteh_jEhF3wHCAuthPwrlsHf_ArqQCLcBGAsYHQ/s1280/o-iluminado-biblioteca-stephen-king-resenha-queria-estar-lendo.png",
+    "price": 39.90
+    },
+    {
+    "id": 8,
+    "title": "O Exorcista",
+    "author": "William Peter Blatty",
+    "description": "Quando uma menina de 12 anos é possuída por uma entidade maligna, sua mãe busca a ajuda de um padre e de um psiquiatra para realizar um exorcismo. A batalha entre o bem e o mal se desenrola enquanto eles tentam salvar a alma da garota e enfrentam forças sobrenaturais aterradoras.",
+    "imageUrl": "https://www.coisasdemineira.com/wp-content/uploads/2020/03/O-EXORCISTA-%E2%80%93-WILLIAM-PETER-BLATTY.jpeg",
+    "price": 34.90
+    },
+    {
+    "id": 9,
+    "title": "Psicose",
+    "author": "Robert Bloch",
+    "description": "Norman Bates é o proprietário de um motel isolado e vive com sua mãe controladora. Quando uma mulher é brutalmente assassinada no estabelecimento, um investigador particular começa a desvendar os segredos sombrios por trás dos eventos, revelando a verdade chocante por trás da personalidade dupla de Norman. ",
+    "imageUrl": "https://jucirqueira.com/wp-content/uploads/2015/01/IMG_4542.png",
+    "price": 32.90
+    },
+    {
+    "id": 10,
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "description": "Coraline descobre uma porta secreta em sua nova casa, que a leva a uma versão alternativa e sinistra da realidade. Lá, ela encontra seus 'outros pais' e tenta escapar das garras dessa realidade assustadora antes que seja tarde demais.",
+    "imageUrl": "https://www.coisasdemineira.com/wp-content/uploads/2020/07/CORALINE-NEIL-GAIMAN-07.jpeg",
+    "price": 27.90
+    },
+    {
+      "id": 11,
+      "title": "O Médico e o Monstro",
+      "author": "Robert Louis Stevenson",
+      "description": "O respeitável Dr. Jekyll desenvolve uma fórmula que libera seu lado sombrio na forma de um alter ego maligno chamado Sr. Hyde. À medida que Jekyll perde o controle sobre Hyde, um jogo mortal de dualidade se desenrola, colocando em risco sua própria alma.",
+      "imageUrl": "https://referencianerd.com/wp-content/uploads/2019/10/O_m%C3%A9dico_e_o_monstro-1.jpg",
+      "price": 39.90
+      },
+      {
+      "id": 12,
+      "title": "Misery",
+      "author": "Stephen King",
+      "description": "Paul Sheldon, um famoso escritor, sofre um acidente de carro e é resgatado por sua maior fã, Annie Wilkes. No entanto, a aparentemente bondosa Annie revela um lado sombrio quando o mantém cativo e o obriga a escrever uma nova história apenas para ela.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzz3Ok3ZSTbgk8TwQ8tIVjhLQITC-QI53XnEwv0-Y8qbpodlnpNvUcnCoodrOgRz14aYg&usqp=CAU",
+      "price": 49.90
+      },
+      {
+      "id": 13,
+      "title": "It: A Coisa",
+      "author": "Stephen King",
+      "description": "Sete crianças enfrentam seus medos mais profundos quando uma criatura malévola conhecida como 'A Coisa' aterroriza sua cidade. Vinte e sete anos depois, eles se reúnem novamente para enfrentar o pesadelo do passado e garantir que o mal não ressurja.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsFJ3LA0qA8IPYyaRKgOK7cocFdvLnWwT2A&usqp=CAU",
+      "price": 85.90
+      },
+      {
+      "id": 14,
+      "title": "A Hora do Vampiro",
+      "author": "Stephen King",
+      "description": "Em uma pequena cidade do Maine, um grupo de crianças descobre que um antigo vampiro chamado Barlow se instalou no local. À medida que a população da cidade se torna cada vez mais vítima dos horrores noturnos, um grupo de moradores se une para enfrentar a ameaça sobrenatural.",
+      "imageUrl": "https://mobground.net/wp-content/uploads/2012/10/resenha_horavampiro_king7.png",
+      "price": 36.90
+      },
+      {
+      "id": 15,
+      "title": "O Silêncio dos Inocentes",
+      "author": "Thomas Harris",
+      "description": "Clarice Starling, uma jovem agente do FBI, é enviada para entrevistar o psiquiatra canibal Hannibal Lecter, na esperança de obter informações que ajudem a capturar um assassino em série. No entanto, ela se vê envolvida em um jogo psicológico perigoso com consequências mortais.",
+      "imageUrl": "https://scontent.fqcj4-1.fna.fbcdn.net/v/t1.6435-9/106301614_1966736606796018_6085577292875364176_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9267fe&_nc_ohc=J4IWriTgFQMAX_oSXnU&_nc_ht=scontent.fqcj4-1.fna&oh=00_AfCzljv8oKfJNGBSfayJPoEKPZ3DQMhd2-eAjLQcpafRhA&oe=64AB02A1",
+      "price": 37.90
+      },
+      {
+        "id": 16,
+        "title": "O Cemitério Maldito",
+        "author": "Stephen King",
+        "description": "Um médico se muda com sua família para uma nova cidade e descobre um cemitério próximo, onde os mortos têm o poder de retornar à vida. Conforme a tragédia atinge sua família, o médico é tentado a usar o poder macabro do cemitério, desencadeando uma série de eventos horripilantes.",
+        "imageUrl": "https://1.bp.blogspot.com/-wlbhqD7SfZE/Xek6mvUIuPI/AAAAAAAAbFE/PXqyJhWMPvU1AcwXRhRW-YMX5ImIMhsFQCLcBGAsYHQ/s1600/o%2Bcemit%25C3%25A9rio%2B1.JPG",
+        "price": 33.90
+        },
+        {
+        "id": 17,
+        "title": "Drácula",
+        "author": "Bram Stoker",
+        "description": "O famoso romance gótico que deu origem ao icônico Conde Drácula. Quando o vampiro chega a Londres, um grupo de pessoas se une para detê-lo antes que ele espalhe sua maldição e consuma suas vítimas.",
+        "imageUrl": "https://pausaparaumcafe.com.br/wp-content/uploads/2019/05/IMG_9908.jpg",
+        "price": 89.90
+        },
+        {
+        "id": 18,
+        "title": "O Fantasma da Ópera",
+        "author": "Gaston Leroux",
+        "description": "Nos bastidores da Ópera de Paris, uma figura mascarada aterroriza os artistas e ameaça a vida de todos que desafiam sua vontade. Enquanto uma bela cantora se torna alvo do fantasma, um romance sombrio e trágico se desenrola nas profundezas do teatro.",
+        "imageUrl": "https://sacramentinasconquista.com.br/wp-content/uploads/sites/1/nggallery/o-fantasma-da-opera-1/004.jpg",
+        "price": 54.90
+        },
+        {
+        "id": 19,
+        "title": "Eu Sou a Lenda",
+        "author": "Richard Matheson",
+        "description": "Robert Neville é o último homem vivo em um mundo infestado por vampiros. Durante o dia, ele busca suprimentos e busca uma cura para a praga que dizimou a humanidade, enquanto à noite luta para sobreviver contra os sedentos de sangue que o cercam.",
+        "imageUrl": "https://www.portallos.com.br/wp-content/uploads/2016/07/Eu-Sou-a-Lenda-003.jpg",
+        "price": 75.90
+        },
+        {
+        "id": 20,
+        "title": "A Assombração da Casa da Colina",
+        "author": "Shirley Jackson",
+        "description": "Quatro estranhos são convidados a passar uma temporada na sombria Casa da Colina para investigar seus fenômenos paranormais. Conforme exploram os corredores assustadores e testemunham eventos sobrenaturais, eles descobrem que a casa possui um poder maligno que ameaça consumir suas mentes e almas.",
+        "imageUrl": "https://www.minhavidaliteraria.com.br/wp-content/uploads/2018/12/a-assombracao-da-casa-da-colina-minha-vida-literaria1.png",
+        "price": 61.90
+        },
+        {
+        "id": 21,
+        "title": "O Retrato de Dorian Gray",
+        "author": "Oscar Wilde",
+        "description": "Dorian Gray é um jovem belo e ambicioso que faz um pacto sombrio para preservar sua juventude e beleza eternamente. Enquanto seu retrato envelhece e reflete sua alma corrompida, Dorian mergulha em uma vida de prazeres hedonistas e crimes horríveis.",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-xiXK_Pvi80GIBSa4HV6F6FjxoRQPyvo5yyCz1oCN1Up6Zh1UaZ7YanUAbwoS7GOM7iwbzWWqgytgdUAq3VOEcGRY3I_4OUwQUSYDJnpiP_-Ic5iLQpa0syUyuakhQEvWb8sQyCvq4bugsiYwoyFcd2cLsHn7FQQyCfffPsDx_bHck57fHF1kvFs/s3703/C2EFB679-A8A8-4F7F-84EA-E075191544E4.jpeg",
+        "price": 68.90
+        },
+        {
+          "id": 22,
+          "title": "O Quarto de Jack",
+          "author": "Emma Donoghue",
+          "description": "Jack é um menino de cinco anos que vive confinado em um quarto com sua mãe, mantido em cativeiro por um sequestrador. Enquanto Jack tenta entender o mundo além das paredes, sua mãe planeja uma fuga desesperada, enfrentando os terrores do mundo exterior.",
+          "imageUrl": "https://1.bp.blogspot.com/-Gn2R13exy3s/T4EK9yEzDfI/AAAAAAAAFUY/1oaKanAljbc/s1600/DSCN7396.JPG",
+          "price": 33.90
+          },
+          {
+          "id": 23,
+          "title": "Filhos do Fim do Mundo",
+          "author": "Fábio M. Barreto",
+          "description": "Em um Brasil pós-apocalíptico, um grupo de sobreviventes tenta encontrar um lugar seguro em meio ao caos e aos monstros que agora habitam a terra. Em uma jornada repleta de perigos, eles precisam enfrentar seus próprios medos e segredos sombrios.",
+          "imageUrl": "https://pipocamusical.com.br/wp-content/uploads/2013/03/livro-filhos-fim-mundo-barreto-moritz.jpg",
+          "price": 36.90
+          },
+          {
+          "id": 24,
+          "title": "Mindhunter",
+          "author": "John E. Douglas e Mark Olshaker",
+         "description": "'Mindhunter' é um livro que explora o mundo da psicologia criminal e dos assassinos em série. Escrito por John E. Douglas, um renomado profiler do FBI, em parceria com Mark Olshaker, a obra apresenta relatos reais de casos famosos e revela os métodos utilizados para compreender a mente dos criminosos. Com uma narrativa envolvente e perturbadora, 'Mindhunter' oferece insights fascinantes sobre o comportamento humano mais sombrio.",
+          "imageUrl": "https://i0.wp.com/sitedosgeeks.com/wp-content/uploads/2020/10/unnamed.jpg?fit=1200%2C630",
+          "price": 79.90
+          },
+          {
+            "id": 25,
+            "title": "Suicidas",
+            "author": "Raphael Montes",
+           "description": "'Suicidas' é um thriller psicológico que acompanha a história de um grupo de jovens que decide cometer suicídio coletivo. O autor, Raphael Montes, explora as motivações obscuras por trás desse pacto macabro, mergulhando nas mentes perturbadas dos personagens. Com reviravoltas surpreendentes e uma atmosfera intensa, o livro aborda temas delicados com habilidade e suspense.",
+            "imageUrl": "https://barbarasa.com/wp-content/uploads/2022/09/Suicidas01-1024x683-1.png",
+            "price": 39.90
+          },
+          {
+            "id": 26,
+            "title": "O Jantar Secreto",
+            "author": "Raphael Montes",
+           "description": "'O Jantar Secreto' é um thriller que apresenta uma trama macabra e cativante. O livro narra a história de quatro estudantes de medicina que se envolvem em um pacto sinistro: organizar jantares clandestinos em que servem carne humana. Com uma escrita ágil e cheia de reviravoltas, Raphael Montes cria um suspense que prende o leitor até a última página.",
+            "imageUrl": "https://www.coisasdemineira.com/wp-content/uploads/2017/09/jantarsecreto-raphaelmontes.jpeg",
+            "price": 44.90
+          },
+          {
+            "id": 27,
+            "title": "Serial Killers: Anatomia do Mal",
+            "author": "Harold Schechter",
+           "description": "Neste livro, Harold Schechter explora os perfis de alguns dos serial killers mais notórios da história, examinando suas motivações e os detalhes chocantes de seus crimes. Com uma abordagem detalhada e envolvente, o autor mergulha na mente do mal, proporcionando uma visão perturbadora do lado mais sombrio da humanidade.",
+            "imageUrl": "https://longahistoria.com.br/wp-content/uploads/2021/07/serial-killers-imagem-destacada.jpg",
+            "price": 79.90
+          },
+          {
+            "id": 29,
+            "title": "O Segredo dos Corpos",
+            "author": "Vincent Di Maio e Ron Franscell",
+           "description": "'O Segredo dos Corpos' é um livro que explora o mundo da medicina legal e das autópsias forenses. Escrito por Vincent Di Maio, um dos mais renomados médicos legistas dos Estados Unidos, em parceria com o escritor Ron Franscell, a obra apresenta casos reais e intrigantes de autópsias e investigações criminais. Com uma abordagem detalhada e envolvente, o livro revela segredos e curiosidades sobre o trabalho dos médicos legistas, oferecendo uma perspectiva fascinante sobre a ciência por trás da investigação de crimes.",
+            "imageUrl": "https://www.estantediagonal.com.br/wp-content/uploads/2017/06/IMG_5068.jpg",
+            "price": 79.90
+          },
+          {
+            "id": 31,
+            "title": "Serial Killers: Louco ou Cruel?",
+            "author": "Ilana Casoy",
+           "description": "este livro, Ilana Casoy mergulha na mente de serial killers e analisa a linha tênue entre loucura e crueldade. Através de casos reais e detalhados, a autora examina os motivos e os métodos desses assassinos, desvendando os mistérios por trás de seus atos hediondos.",
+            "imageUrl": "https://darkside.vteximg.com.br/arquivos/ids/190960-400-400/Louco-ou-Cruel-3.png?v=638042025301270000",
+            "price": 79.90
+          },
+          {
+            "id": 32,
+            "title": "Casos de Família: Arquivos Richthofen e Arquivos Nardoni",
+            "author": "Ilana Casoy",
+           "description": "Neste livro, Ilana Casoy traz dois casos emblemáticos que chocaram o Brasil: o caso Richthofen e o caso Nardoni. Com uma abordagem investigativa, a autora analisa os detalhes dos crimes, a dinâmica familiar e os desdobramentos judiciais, proporcionando uma visão aprofundada desses casos de repercussão nacional.",
+            "imageUrl": "https://utopialiterariaentreamigas.files.wordpress.com/2017/08/f815f-_dsc3212.jpg?w=640https://utopialiterariaentreamigas.files.wordpress.com/2017/08/f815f-_dsc3212.jpg?w=640",
+            "price": 79.90
+          }
 ]

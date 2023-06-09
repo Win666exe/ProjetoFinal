@@ -28,20 +28,20 @@
 }
 
 .book-author {
-  font-size: 16px;
+  font-size: 17px;
   margin-bottom: 10px;
   color: #b3b3b3;
 }
 
 .book-description {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
 .book-image {
-  width: 200px;
-  height: 200px;
+  width: 450px;
+  height: 350px;
   object-fit: cover;
   margin-bottom: 10px;
   border-radius: 8px;
