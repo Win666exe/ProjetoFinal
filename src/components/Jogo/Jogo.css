@@ -13,7 +13,8 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
   margin-bottom: 20px;
-  width: 800px;
+  width: 750px;
+  height: 600px;
 }
 
 .celula {
@@ -26,7 +27,7 @@
   transition: background-color 0.3s ease;
   background-color: #f2f2f2;
   color: #555555;
-  height: 220px;
+  height: 200px;
 }
 
 .celula:hover {
